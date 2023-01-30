@@ -1,0 +1,1 @@
+Wordle es un juego sencillo se trata de averiguar la palabra secreta de 5 letras y tendrás 6 intentos para ello.\nSi el recuadro es amarillo está pero no en su sitio, si esta verde está en su sitio y si es gris no está.\nA diferencia del wordle en web aquí puedes jugar sin límite.
